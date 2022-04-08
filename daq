@@ -1,0 +1,11 @@
+[33mcommit bb3b95698963ff79e81d941a52786124a5e0bdc3[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/crud[m[33m, [m[1;31morigin/feature/crud[m[33m)[m
+Author: YoungbinKim <colock123@gmail.com>
+Date:   Fri Apr 8 11:23:10 2022 +0900
+
+    Add: products application
+
+[33mcommit cc10ecd0f5a881258faf938f41a49189dc47d331[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: YoungbinKim <colock123@gmail.com>
+Date:   Fri Apr 8 11:12:15 2022 +0900
+
+    Add: Django Project Setting
